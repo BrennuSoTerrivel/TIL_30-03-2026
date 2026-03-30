@@ -1,0 +1,7 @@
+O que são variáveis de ambiente? 
+Nada mais é que variáveis que a gente cria e configura no ambiente do sistema operacional, como uma variávei criada no terminal do sistema operacional.
+
+Linux: export MINHA_VAR=valor
+Windows: set MINHA_VAR valor
+
+Muito mais seguro na hora de compratilhar o código pelo github por exemplo, porque as credenciais estao escondidas nas variáveis de ambiente
