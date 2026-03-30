@@ -1,1 +1,14 @@
+Um 'Objeto' em POO é algo que possui propriedades, como nome da marca, modelo, cor,se tem camera, se tem nome, e também possúi funções, como fazer ligações, jogar cobrinha, andar, falar
 
+um objeto é declarado no python a partir de uma classe, por exemplo:
+class Celular:
+    marca = 'Nokia'
+    modelo = 'Iphone'
+    cor = 'Black'
+
+que possui funções, como:
+    def fazer_ligacoes(self):
+        print('Fazendo ligação...')
+    def calcular(self):
+
+OBSERVAÇÃO: Qualquer função dentro de classes em POO deve iniciar com o parâmetro 'self', Porque é uma instancia da própria classe.
