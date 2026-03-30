@@ -1,0 +1,6 @@
+List Comprehension ou Compreensão de Listas, nada mais é do que um recurso do python em que eu consigo aplicar a uma expressão ou função para cada item de uma lista, retornando assim uma nova lista com os itens alterados conforme a expressão em que foi executada
+
+numeros = [1, 2, 3, 4, 5]
+
+Sintaxe: [expr for item in lista] - expressão para cada item na lista
+
