@@ -5,5 +5,5 @@ numeros = [1, 2, 3, 4, 5]
 #compreensão de listas
 numeros_dobrados = [numero * 2 for numero in numeros if numero[0] == 'A']
 
-Sintaxe: [expr for item in lista] - expressão para cada item na lista
+Sintaxe: [expr for item in lista cond] - expressão para cada item na lista condição
 
