@@ -1,0 +1,2 @@
+Permite que classes diferentes que herdam da mesma classe possam ter métodos e propriedades com o mesmo nome, mas que executa algo diferente.
+Por isso polimorfismo, porque as classes tomam formas diferentes, mesmo tendo o mesmo nome.
